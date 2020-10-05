@@ -1,0 +1,2 @@
+# Edit_BIOS_Setting_Interface
+H2OUVE是使用command修改BIOS設定的工具，此介面結合H2OUVE，對一台server修改所需的BIOS設定後，透過deploy kit執行介面，即可使多台server套用相同之BIOS設定。

@@ -49,7 +49,7 @@ Python3.7
 
 ## 功能介紹
 
-#### BIOS設定 :<br>
+#### BIOS設定<br>
 
 1. Show BIOS Setting file List :<br>
 列出存於"BIOSsetting"資料夾裡的bios設定檔<br>

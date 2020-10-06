@@ -18,6 +18,23 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 <br>
 <br>
 
+## 開發平台
+Fedora26<br>
+<br>
+<br>
+
+## 開發環境
+Python3.7
+
+## 使用方法
+將H2OUVE設置在當前目錄<br>
+使用python執行<br>
+
+    h2ouve_tool_code.py
+
+輸入要使用的功能數字即可<br>
+<br>
+<br>
 
 ## 介面
 

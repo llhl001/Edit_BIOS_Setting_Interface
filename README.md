@@ -20,7 +20,7 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 
 
 ## 介面
-![](http://baidu.com) 
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/interface.png)  
 上圖為功能選單，主要分成BIOS設定、Boot Order設定、更改BIOS設定三類<br>
 <br>
 <br>
@@ -31,47 +31,65 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 * BIOS設定 :
 1.	Show BIOS Setting file List :<br>
 列出存於"BIOSsetting"資料夾裡的bios設定檔<br>
-![](http://baidu.com)  
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/1.png) 
+
 <br>
 2.	Export Current BIOS Setting :<br>
 匯出目前BIOS的設定，使用者必須輸入檔名，<br>
 會自動存為XXX_bios.txt檔，<br>
 並放在"BIOSsetting"資料夾<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/2.png) 
+
 <br>
 3.	Import BIOS Setting :
 列出存於"BIOSsetting"資料夾裡的bios設定檔，<br>
 使用者輸入該設定檔的編號，選擇所需設定檔，並匯入BIOS更改設定<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/3.png) 
+
 <br>
 * Boot Order設定
 4.	Show Boot Order Setting file List :<br>
 列出存於"BIOSsetting"資料夾裡的boot order設定檔<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/4.png)
+
 <br>
 5.	Show Current Boot Order :<br>
 列出目前BIOS Legacy的Boot Order<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/5.png) 
+
 <br>
 6.	Export Current Boot Order Setting :<br>
 匯出目前Boot Order的設定檔，使用者必須輸入檔名，<br>
 會自動存為XXX_order.txt檔，並放在"BIOSsetting"資料夾<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/6.png) 
+
 <br>
 7.	Import Boot Order Setting :<br>
 列出存於”BIOSsetting”資料夾裡的boot order設定檔，<br>
 供使用者選擇所需設定檔，並匯入BIOS更改Boot Order設定<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/7.png) 
+
 <br>
 * 更改BIOS設定
 8.	Change Boot Type :<br>
 列出三種Boot Type供使用者選擇，<br>
 程式會自行更改設定檔中的Boot Type，並匯入BIOS<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/8.png) 
+
 <br>
 9.	Change Legacy Boot Order :<br>
 列出目前的Boot Order，<br>
 並供使用者輸入1~5去更改Boot Order的順序<br>
 (1是順位1，2是順位2 … 依此類推)<br>
-![](http://baidu.com) 
+
+![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/9.png) 
+
 <br>

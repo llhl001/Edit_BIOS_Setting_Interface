@@ -110,28 +110,28 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 
 <br>
 
-### 1. Show BIOS Setting file List<br>
-### 4. Show Boot Order Setting file List <br>
+#### 1. Show BIOS Setting file List<br>
+#### 4. Show Boot Order Setting file List <br>
 
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/blob/main/flow_chart/flow_chart%20(2).JPG) 
 
 <br>
 
-### 5. Show Current Boot Order<br>
+#### 5. Show Current Boot Order<br>
 
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/blob/main/flow_chart/flow_chart%20(3).JPG)
 
 <br>
 
-### 2. Export Current BIOS Setting<br>
-### 6. Export Current Boot Order Setting <br>
+#### 2. Export Current BIOS Setting<br>
+#### 6. Export Current Boot Order Setting <br>
 
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/blob/main/flow_chart/flow_chart%20(4).JPG)
 
 <br>
 
-### 3. Import BIOS Setting <br>
-### 7. Import Boot Order Setting <br>
+#### 3. Import BIOS Setting <br>
+#### 7. Import Boot Order Setting <br>
 
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/blob/main/flow_chart/flow_chart%20(5).JPG)
 
@@ -139,13 +139,13 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 
 <br>
 
-### 8. Change Boot Type<br>
+#### 8. Change Boot Type<br>
 
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/blob/main/flow_chart/flow_chart%20(7).JPG)
 
 <br>
 
-### 9. Change Boot Order<br>
+#### 9. Change Boot Order<br>
 
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/blob/main/flow_chart/flow_chart%20(8).JPG)
 

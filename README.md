@@ -28,7 +28,8 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 
 ## 功能介紹
 
-* BIOS設定 :
+* BIOS設定 :<br>
+
 1.Show BIOS Setting file List :<br>
 列出存於"BIOSsetting"資料夾裡的bios設定檔<br>
 
@@ -50,7 +51,9 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/3.png) 
 
 <br>
+
 * Boot Order設定<br>
+
 4.Show Boot Order Setting file List :<br>
 列出存於"BIOSsetting"資料夾裡的boot order設定檔<br>
 
@@ -77,7 +80,9 @@ H2OUVE是個可透過command的方式修改BIOS設定的工具，<br>
 ![](https://github.com/sha310139/Edit_BIOS_Setting_Interface/tree/main/interface_pictures/7.png) 
 
 <br>
-* 更改BIOS設定
+
+* 更改BIOS設定<br>
+
 8.Change Boot Type :<br>
 列出三種Boot Type供使用者選擇，<br>
 程式會自行更改設定檔中的Boot Type，並匯入BIOS<br>
